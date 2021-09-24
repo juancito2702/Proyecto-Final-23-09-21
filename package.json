@@ -1,0 +1,21 @@
+{
+  "name": "cuartaentrega",
+  "version": "1.0.0",
+  "description": "proyecto de adhesivos y sellantes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-css": "node-sass --include-path scss scss/main.scss css/main.css",
+    "watch-css": "nodemon -e scss -x \"npm     run build-css\"",
+    "build":"purgecss --css css/main.css --content index.html -o css/reducido.css"
+  },
+  "author": "Juan Luis Silva Rios",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^6.0.1",
+    "nodemon": "^2.0.12"
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.1"
+  }
+}
