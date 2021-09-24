@@ -1,5 +1,5 @@
 # Proyecto-Final-23-09-21
-Proyecto Final del Curso de Desarrollo Web en Escuela Digital Falabella.
+Proyecto Final del Curso de Desarrollo Web en Escuela Digital Falabella, impartido en Coder House.
 
 Mi Proyecto final para Escuela Digital. 2da Generación. 23-09-2021
 
