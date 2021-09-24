@@ -10,3 +10,7 @@ poliuretanos que existen en el mercado y su correcta aplicación en diferentes m
 
 Link de mi repositorio:
 https://github.com/juancito2702/Proyecto-Final-23-09-21.git
+
+Gracias por visitar mi repositorio.
+
+Que DIOS JESUCRISTO te Bendiga =)
